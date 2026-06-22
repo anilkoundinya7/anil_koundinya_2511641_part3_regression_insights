@@ -8,4 +8,4 @@
 
 ## Conclusion
 
-Model 3 is the best model because it has the highest R Square value (0.809). It explains about 81% of the variation in monthly sales.
+Model 3 is the best model because it has the highest R Square value (0.809). It explains about 81% of the variation in monthly sales. 
